@@ -1,0 +1,17 @@
+body{
+    padding-top: 70px;
+}
+.jumbotron{
+    color: #2c3e50;
+    background: #ecf0f1;
+}
+.nav{
+    background: #2c3e50;
+    padding-left: 100px;
+    padding-top: 10px;
+    height: 50px;
+    word-spacing: 1em;
+}
+.nav-link, .fa-dog{
+    color: white;
+}
